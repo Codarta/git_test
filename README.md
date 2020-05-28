@@ -1,2 +1,1 @@
-# git_test
-odin test
+"This is Aeoncode's first git project!"
